@@ -1,0 +1,10 @@
+<application>
+  <component name="zato">
+    <servers>
+      <list>
+        <server default="true" name="Dev Cluster" password="kylesucks" url="http://10.2.7.84:11223" username="ide_publisher" />
+        <server name="Prod Cluster" password="x08-41664" url="http://dockercluster1:11223" username="ide_publisher" />
+      </list>
+    </servers>
+  </component>
+</application>

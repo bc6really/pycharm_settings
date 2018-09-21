@@ -1,0 +1,75 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPackageRequirementsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python\Python36\python.exe" value="true" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\PA_Checker\venv\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\ToUnity\venv\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\UnityAPI\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\unity\validation\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\unity\validation\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\envs\zato\Scripts\python.exe" value="false" />
+        <entry key="docker-compose://[C:\Users\jglasgow\PycharmProjects\durable_rule_engine\docker-compose.yml]:engine/python" value="false" />
+        <entry key="docker://coder/wc:dev/python" value="false" />
+        <entry key="sftp://zato@localhost:32768/usr/bin/python" value="false" />
+        <entry key="ssh://zato@localhost:32768/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\PA_Checker\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\ToUnity\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\UnityAPI\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\unity\validation\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\unity\validation\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\envs\zato\Scripts\python.exe" value="false" />
+        <entry key="docker-compose://[C:\Users\jglasgow\PycharmProjects\durable_rule_engine\docker-compose.yml]:engine/python" value="false" />
+        <entry key="docker://coder/wc:dev/python" value="false" />
+        <entry key="sftp://zato@localhost:32768/usr/bin/python" value="false" />
+        <entry key="ssh://zato@localhost:32768/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Python\Python36\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\PA_Checker\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\ToUnity\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\UnityAPI\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\unity\validation\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\jglasgow\PycharmProjects\unity\validation\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\envs\zato\Scripts\python.exe" value="false" />
+        <entry key="docker-compose://[C:\Users\jglasgow\PycharmProjects\durable_rule_engine\docker-compose.yml]:engine/python" value="false" />
+        <entry key="docker://coder/wc:dev/python" value="false" />
+        <entry key="sftp://zato@localhost:32768/usr/bin/python" value="false" />
+        <entry key="ssh://zato@localhost:32768/usr/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://eris-priv.northampton.edu:9999&amp;^%$#@jglasgow" />
+  </component>
+</application>

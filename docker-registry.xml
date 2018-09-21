@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="jglasgow@northampton.edu">
+      <option name="address" value="https://eris-priv.northampton.edu:5000" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="jglasgow" />
+    </DockerRegistry>
+    <DockerRegistry email="jglasgow@northampton.edu">
+      <option name="address" value="https://eris-priv.northampton.edu:5000" />
+      <option name="name" value="Local Docker" />
+      <option name="username" value="jglasgow" />
+    </DockerRegistry>
+  </component>
+</application>

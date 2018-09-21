@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="DB Up" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="docker-compose" />
+      <option name="PARAMETERS" value="up -d -f docker-compose.yml db " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
